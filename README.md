@@ -31,22 +31,22 @@ An end-to-end Business Intelligence project evaluating a comprehensive banking d
 ##  Dashboard Pages Preview
 
 ### 1. Executive Overview
-![Overview](images/Overview.png)
+![Overview](Overview.png)
 
 ### 2. Customers & Accounts Analysis
-![Customers](images/Customers.png)
+![Customers](Customers.png)
 
 ### 3. Transactions & Liquidity
-![Transactions](images/Transactions.png)
+![Transactions](Transactions.png)
 
 ### 4. Loans & Risk Portfolio
-![Loans](images/Loans.png)
+![Loans](Loans.png)
 
 ### 5. Support Calls & Operational Efficiency
-![Support Calls](images/Support_calls.png)
+![Support Calls](Support_calls.png)
 
 ### 6. Tracking Loans
-![Tracking Loans](images/Tracking_Loans.png)
+![Tracking Loans](Tracking_Loans.png)
 
 ---
 

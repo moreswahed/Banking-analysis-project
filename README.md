@@ -43,7 +43,7 @@ An end-to-end Business Intelligence project evaluating a comprehensive banking d
 ![Loans](Loans.png)
 
 ### 5. Support Calls & Operational Efficiency
-![Support Calls](Support_calls.png)
+![Support Calls](Support_Calls.png)
 
 ### 6. Tracking Loans
 ![Tracking Loans](Tracking_loans.png)

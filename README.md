@@ -9,7 +9,7 @@ An end-to-end Business Intelligence project evaluating a comprehensive banking d
 * **Star Schema Architecture:** Designed a relational data model connecting core transactional and operational tables (`Customers`, `Transactions`, `Loans`, `Support Calls`) to dedicated dimension tables.
 * **Advanced DAX Measures:** Implemented custom calculated measures and filters to track active vs. ended loan distributions, account dormancy, and support resolution rates dynamically.
 
-![Data Model](images/Data_model.png)
+![Data Model](Data_model.png)
 
 ---
 

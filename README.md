@@ -1,7 +1,7 @@
 #  Banking Performance, Risk & Support Analytics (Power BI Dashboard)
 
 ##  Project Overview
-An end-to-end Business Intelligence project evaluating a comprehensive banking dataset covering **5,050 customers**, **20K transactions** ($100M total value), a **$644M loan portfolio** across 2,600 loans, and **3,100 support operations**[cite: 1, 3, 4, 5]. The dashboard is structured across **5 interactive pages** to monitor financial health, customer behavior, credit risk, and operational support bottlenecks[cite: 1, 2, 3, 4, 5].
+An end-to-end Business Intelligence project evaluating a comprehensive banking dataset covering **5,050 customers**, **20K transactions** ($100M total value), a **$644M loan portfolio** across 2,600 loans, and **3,100 support operations**. The dashboard is structured across **5 interactive pages** to monitor financial health, customer behavior, credit risk, and operational support bottlenecks.
 
 ---
 
